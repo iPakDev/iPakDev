@@ -2,4 +2,4 @@
 - 👀 I’m interested in iOS mobile development 
 - 🌱 I’m currently learning SwiftUI
 - 💞️ I’m looking to collaborate on tech accessibility & inclusivity 
-- 📫 You can reach me at +998 (97) 711 8870 and/or ipak.dev@gmail.com 
+- 📫 You can reach me via ipak.dev@gmail.com 
